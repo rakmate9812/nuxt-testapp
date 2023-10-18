@@ -1,4 +1,6 @@
 <template>
-  <div>HW</div>
-  <NuxtPage />
+  <div>
+    <TheHeader></TheHeader>
+    <router-view></router-view>
+  </div>
 </template>

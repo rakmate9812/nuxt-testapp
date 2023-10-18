@@ -1,3 +1,6 @@
 <template>
-  <div>About me: This is the first time im using Nuxt and this is a pretty nice DX so far</div>
+  <div>
+    <h3>About me</h3>
+    <p>This is the first time im using Nuxt and this is a pretty nice DX so far</p>
+  </div>
 </template>
